@@ -26,7 +26,6 @@ int main(){
     }
     if(f == a)cout << s << endl;
     else cout << -1 << endl;
-    //cout << a << " " << b << " " << s << " " << f << endl;
   }
 }
 
